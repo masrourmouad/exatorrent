@@ -20,7 +20,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "slocation": "^1.5.0",
+    "svelte-spa-router": "*",
     "svelte-sonner": "^0.3.28"
   },
   "devDependencies": {

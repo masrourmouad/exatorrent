@@ -1,5 +1,5 @@
 <script lang="ts">
-  import slocation from 'slocation';
+  import { slocation } from './slocation'; // import the store
   import { isAdmin, isDisConnected } from './partials/core';
 
   import Index from './partials/Index.svelte';

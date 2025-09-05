@@ -11,7 +11,7 @@
     diskstats,
     nooftrackersintrackerdb
   } from './core';
-  import slocation from 'slocation';
+  import { slocation } from '../slocation'
   import { toast } from 'svelte-sonner';
 
   let ds = false;
